@@ -1,0 +1,72 @@
+/* CSS Reset - Universal Selektor */
+* {
+    box-sizing: border-box; /* Schließt Padding und Border in die Gesamtbreite und -höhe von Elementen ein */
+    margin: 0; /* Entfernt Standard-Außenabstände */
+    padding: 0; /* Entfernt Standard-Innenabstände */
+    border: 0; /* Entfernt Standard-Rahmen */
+    font-size: 100%; /* Setzt die Schriftgröße auf 100% des Elternelements zurück */
+    font: inherit; /* Lässt Schrifteigenschaften erben */
+    vertical-align: baseline; /* Setzt die vertikale Ausrichtung zurück */
+  }
+  
+  /* HTML5 Reset - Semantische Elemente */
+  article, aside, details, figcaption, figure,
+  footer, header, hgroup, menu, nav, section {
+    display: block; /* Stellt sicher, dass HTML5-Elemente korrekt als Blockelemente dargestellt werden */
+  }
+  
+  body {
+    line-height: 1; /* Setzt die Zeilenhöhe zurück */
+  }
+  
+  ol, ul {
+    list-style: none; /* Entfernt Standard-Listenstile */
+  }
+  
+  blockquote, q {
+    quotes: none; /* Entfernt Standard-Anführungszeichen */
+  }
+  
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+  
+  table {
+    border-collapse: collapse; /* Lässt Tabellenrahmen zusammenfallen */
+    border-spacing: 0; /* Entfernt Tabellenrahmen-Abstände */
+  }
+  
+  /* Formular-Elemente Reset */
+  input, textarea, select, button {
+    font-family: inherit; /* Lässt die Schriftfamilie erben */
+    font-size: inherit; /* Lässt die Schriftgröße erben */
+    line-height: inherit; /* Lässt die Zeilenhöhe erben */
+    -webkit-appearance: none; /* Entfernt Standard-Darstellung (für WebKit-Browser) */
+    -moz-appearance: none; /* Entfernt Standard-Darstellung (für Firefox) */
+    appearance: none; /* Entfernt Standard-Darstellung. */
+  }
+  
+  input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none; /* Entfernt den Standard-Suchabbrechen-Button */
+  }
+  
+  button, input[type="submit"] {
+    cursor: pointer; /* Macht Buttons anklickbar */
+  }
+  
+  a {
+    text-decoration: none; /* Entfernt die Unterstreichung von Links */
+    color: inherit; /* Lässt die Farbe vom Elternelement erben */
+  }
+  
+  img {
+    max-width: 100%; /* Macht Bilder responsiv */
+    height: auto; /* Behält das Seitenverhältnis bei */
+    vertical-align: middle; /* Richtet Bilder vertikal aus */
+  }
+
+  html{
+    scroll-behavior: smooth;
+}
