@@ -21,7 +21,7 @@ This website provides a basic online presence for a fictional coffee shop. It in
 
 It is online on this link:[Café Haus](https://cafe-haus.vercel.app/)
 
----- Deutsch ---
+---------------------------------------------------------------------------------------------- Deutsch -----------------------------------------------------------------------------------------
 
 # Café haus Webseite
 
