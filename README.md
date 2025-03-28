@@ -19,8 +19,6 @@ This website provides a basic online presence for a fictional coffee shop. It in
 * **CSS3:** For styling the website and creating a visually appealing design.
 * **Google Maps Embed API:** For displaying the coffee shop's location.
 
-It is online on this link: <a href="https://cafe-haus.vercel.app/" target="_blank" rel="noopener noreferrer"> Café Haus</a>
-
 It is online on this link:[Café Haus](https://cafe-haus.vercel.app/)
 
 ---- Deutsch ---
@@ -44,5 +42,4 @@ Diese Webseite bietet eine grundlegende Online-Präsenz für ein fiktives Kaffee
 * **CSS3:** Für die Gestaltung der Webseite und die Erstellung eines optisch ansprechenden Designs.
 * **Google Maps Embed API:** Für die Anzeige des Standorts des Kaffeehauses.
 
-Es ist online unter diesem Link verfügbar: <a href="https://cafe-haus.vercel.app/" target="_blank" rel="noopener noreferrer"> Café Haus</a>
 Es ist online unter diesem Link verfügbar: [Café Haus](https://cafe-haus.vercel.app/)
