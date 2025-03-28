@@ -16,3 +16,5 @@ This website provides a basic online presence for a fictional coffee shop. It in
 * **HTML5:** For structuring the website's content.
 * **CSS3:** For styling the website and creating a visually appealing design.
 * **Google Maps Embed API:** For displaying the coffee shop's location.
+
+It is online on this link: cafe-haus-jml3p8iqq-icaromisquitas-projects.vercel.app
