@@ -3,7 +3,7 @@
 # Coffee Shop Website
 
 This repository contains the HTML and CSS files for a simple coffee shop website, in german language.
-
+It is deployed on this link: [Café Haus](https://cafe-haus.vercel.app/)
 ## Description
 
 This website provides a basic online presence for a fictional coffee shop. It includes sections for:
@@ -19,14 +19,14 @@ This website provides a basic online presence for a fictional coffee shop. It in
 * **CSS3:** For styling the website and creating a visually appealing design.
 * **Google Maps Embed API:** For displaying the coffee shop's location.
 
-It is online on this link:[Café Haus](https://cafe-haus.vercel.app/)
+
 
 ------------------------------------------------------------------------------- Deutsch --------------------------------------------------------------------
                                                                                                                                                             
 # Café haus Webseite
 
 Dieses Repository enthält die HTML- und CSS-Dateien für eine einfache Webseite eines Kaffeehauses, in deutscher Sprache.
-
+Es ist unter diesem Link verfügbar: [Café Haus](https://cafe-haus.vercel.app/)
 ## Beschreibung
 
 Diese Webseite bietet eine grundlegende Online-Präsenz für ein fiktives Kaffeehaus. Sie beinhaltet Abschnitte für:
